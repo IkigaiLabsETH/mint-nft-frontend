@@ -39,7 +39,7 @@ const Connected: FC = () => {
               noOfLines={1}
               textAlign="center"
             >
-              Mint a DOG NFT
+              Mint ARTY FAX
             </Heading>
 
           </VStack>
