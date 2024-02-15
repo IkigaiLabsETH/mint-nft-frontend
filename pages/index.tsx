@@ -12,8 +12,8 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Buildoors</title>
-        <meta name="The NFT Collection for Buildoors" />
+        <title>GM MFers</title>
+        <meta name="Envision The Unseen" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
